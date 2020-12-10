@@ -1,0 +1,53 @@
+---
+title: "A study of smoking behaviors among adolescents"
+author: 'CL'
+date: "Dec 9, 2020"
+abstract: |
+  |   This study investigated the problem of smoking behaviors among adolescents based on the National Tobacco Survey of adolescents. The study mainly focused on two special hypotheses and applied formal statistical models to investigate the questions. It was found there is strong evidence shows the first time smoking age for males is younger than the first time smoking age for females. Also, it was found the likelihood of having used a electronic cigarettes is indeed significantlyt different between males and females
+  |
+  | **Keywords:**  first time smoking age; electronic cigarettes;
+output:
+  bookdown::pdf_document2:
+toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,eval=TRUE, warning=F,message=F)
+```
+
+# Introduction
+
+It is well known that children smoke more frequently in rural areas than in urban areas, and children smoke varies with different years old and different races. Also, it is claimed that there may be significant differences in smoking behaviors among young children in different states and regions. And for students in different schools, the smoking behaviors among young children may also vary from school to school. Under this background, the aim of this study is to investigate the problem of smoking behaviors among adolescents based on the National Tobacco Survey of adolescents. Particularly, some special hypotheses are made to be investigated as following:
+
+1. Hypothesis 1: the first time smoking age for males is younger than the first time smoking age for females.
+
+2. Hypothesis 2: the likelihood of having used a electronic cigarettes is different between males and females
+ 
+
+This study would mainly focus on statistical models to answer the questions of interest. 
+
+
+
+# Data 
+
+
+# Models 
+
+
+# Results
+
+
+# Discussion and conclusion
+
+
+# References
+
+
+# Appendix 
+
+
+
+
+
+
+
